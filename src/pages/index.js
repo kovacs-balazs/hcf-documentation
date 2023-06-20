@@ -18,14 +18,14 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg"
             to="/docs/intro">
-            Docusaurus Tutorial - 5min ⏱️
+            Get Started
           </Link>
         </div>
       </div>
     </header>
   );
 }
-
+// Docusaurus Tutorial - 5min ⏱
 export default function Home() {
   const {siteConfig} = useDocusaurusContext();
   return (

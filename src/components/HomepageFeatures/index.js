@@ -4,22 +4,21 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
+    title: 'Optimized',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Nagy hangsújt fektettünk a plugin optimalizálásába, hogy tényleg a legjobb minőséget tudjunk nyújtani vásárlóink felé.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Multi-Language',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Our plugin supports different languages per player.
+        (Currently only english messages are available by default.)
       </>
     ),
   },
