@@ -1,0 +1,10 @@
+{
+  "table-editor-obsidian:format-all-tables": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "N"
+    }
+  ]
+}
