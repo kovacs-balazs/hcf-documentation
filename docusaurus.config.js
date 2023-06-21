@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Hardcore Factions Plus',
   tagline: 'HCF Core, Multi-Language, Addons, Fully Configurable',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/HCFKek (1).png',
 
   // Set the production url of your site here
   url: 'https://your-docusaurus-test-site.com',

@@ -1,3 +1,3 @@
 git add .
-git commit -m "Added config files"
+git commit -m "Added icon"
 git push
