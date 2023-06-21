@@ -7,11 +7,11 @@ sidebar_label: "Commands"
 **Please note that commands with the arguments [] or <\> in /faction help are either required or optional**
 
 * Arguments surrounded with <\> are required.
-* Arguments surrounded with \[] are optional.
-* Arguments such as \<player\> must be replaced with a players name.
-* Arguments such as \<message\> must be replaced with a message, the message can be as long as you want it to be.
-* Arguments such as \<faction\> must be replaced with factions name.
-* Arguments such as \<amount\> must be replaced with a number.
+* Arguments surrounded with [] are optional.
+* Arguments such as <player\> must be replaced with a players name.
+* Arguments such as <message\> must be replaced with a message, the message can be as long as you want it to be.
+* Arguments such as <faction\> must be replaced with factions name.
+* Arguments such as <amount\> must be replaced with a number.
 
 ***
 

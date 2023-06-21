@@ -1,3 +1,3 @@
 git add .
-git commit -m "Second commit"
+git commit -m "Added config files"
 git push
