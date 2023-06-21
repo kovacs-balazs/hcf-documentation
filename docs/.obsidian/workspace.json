@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "config-files/07-tab.md",
+                "file": "custom-claiming/03-examples.md",
                 "mode": "source",
                 "source": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "config-files/07-tab.md",
+                "file": "custom-claiming/03-examples.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "config-files/07-tab.md",
+                "file": "custom-claiming/03-examples.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "config-files/07-tab.md"
+                "file": "custom-claiming/03-examples.md"
               }
             }
           }
@@ -182,8 +182,10 @@
   },
   "active": "484d387eca1c5e0a",
   "lastOpenFiles": [
-    "config-files/05-scoreboard.md",
+    "custom-claiming/01-attributes.md",
+    "custom-claiming/00-usage.md",
     "config-files/07-tab.md",
+    "config-files/05-scoreboard.md",
     "config-files/06-reclaim.md",
     "config-files/04-limits.md",
     "config-files/03-classes.md",
@@ -204,7 +206,6 @@
     "config-files/Új Szöveges dokumentum.txt",
     "config-files/config.md",
     "commands/01-faction-commands.md",
-    "custom-claiming/00-usage.md",
     "multi-language/multi-language.md",
     "developer-api/01-examples.md",
     "intro.md",

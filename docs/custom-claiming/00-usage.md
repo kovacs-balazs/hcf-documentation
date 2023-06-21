@@ -1,12 +1,26 @@
 ---
 id: usage
 sidebar_label: "Usage"
+title: "Usage"
 ---
+
+***
+
+##  What is Custom Claiming?
+> You can create custom faction and claim an area for it.<br/>
+> You need to claim **Spawn, KoTH, Roads** etc. with custom claiming. <br/>
+> You can create claim where you want and whatever type you want.
+> *(Colored, formatted names are allowed. Separate words with underline)*
+
+***
+
+<br/>
+
 # Usage
 
 ***
 
-1. You need to be first create a custom claim. (Colored names are allowed)
+1. You need to be first create a custom faction. *(Colored, formatted names are allowed. Separate words with underline)*
 2. Type `/customclaim claim <name> <attribute>` to get the Claiming Wand
 3. Select the claim with the wand.
 4. Shift + Right Click to claim the selection.

@@ -1,3 +1,3 @@
 git add .
-git commit -m "Added icon"
+git commit -m "Edited Custom Claiming"
 git push
