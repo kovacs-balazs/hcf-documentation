@@ -1,3 +1,3 @@
 git add .
-git commit -m "Updated images"
+git commit -m "Updated feature list"
 git push
