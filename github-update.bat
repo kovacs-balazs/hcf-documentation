@@ -1,3 +1,3 @@
 git add .
-git commit -m "Updated feature list"
+git commit -m "Updated customclaiming"
 git push

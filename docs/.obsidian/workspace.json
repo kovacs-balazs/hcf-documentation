@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "custom-claiming/03-examples.md",
+                "file": "custom-claiming/00-usage.md",
                 "mode": "source",
                 "source": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "custom-claiming/03-examples.md",
+                "file": "custom-claiming/00-usage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "custom-claiming/03-examples.md",
+                "file": "custom-claiming/00-usage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "custom-claiming/03-examples.md"
+                "file": "custom-claiming/00-usage.md"
               }
             }
           }
@@ -182,6 +182,8 @@
   },
   "active": "484d387eca1c5e0a",
   "lastOpenFiles": [
+    "developer-api/00-usage.md",
+    "custom-claiming/03-examples.md",
     "custom-claiming/01-attributes.md",
     "custom-claiming/00-usage.md",
     "config-files/07-tab.md",
@@ -207,8 +209,6 @@
     "config-files/config.md",
     "commands/01-faction-commands.md",
     "multi-language/multi-language.md",
-    "developer-api/01-examples.md",
-    "intro.md",
-    "developer-api/00-usage.md"
+    "developer-api/01-examples.md"
   ]
 }

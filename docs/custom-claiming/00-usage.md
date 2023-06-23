@@ -20,7 +20,8 @@ title: "Usage"
 
 ***
 
-1. You need to be first create a custom faction. *(Colored, formatted names are allowed. Separate words with underline)*
-2. Type `/customclaim claim <name> <attribute>` to get the Claiming Wand
-3. Select the claim with the wand.
-4. Shift + Right Click to claim the selection.
+1. You need to be first create a custom faction with `/customclaim create <name>` command.
+	* *(Colored, formatted names are allowed. Separate words with underline)*
+1. Type `/customclaim claim <name> <attribute>` to get the Claiming Wand
+2. Select the claim with the wand.
+3. Shift + Right Click to claim the selection.
