@@ -1,3 +1,3 @@
 git add .
-git commit -m "Updated customclaiming"
+git commit -m "Updated home page"
 git push

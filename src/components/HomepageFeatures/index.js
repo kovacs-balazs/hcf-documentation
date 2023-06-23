@@ -27,7 +27,7 @@ const FeatureList = [
     Svg: require('@site/static/img/menu_big.svg').default,
     description: (
       <>
-        We made menus for easier manage a faction. All function of faction available from menu.
+        We made menus for making easier to manage the faction. All faction commands available from the menu.
       </>
     ),
   },
