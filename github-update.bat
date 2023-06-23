@@ -1,3 +1,3 @@
 git add .
-git commit -m "Edited Custom Claiming"
+git commit -m "Updated images"
 git push

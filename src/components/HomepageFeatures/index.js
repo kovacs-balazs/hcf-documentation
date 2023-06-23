@@ -5,16 +5,16 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'Optimized',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    Svg: require('@site/static/img/optimized.svg').default,
     description: (
       <>
-        Nagy hangsújt fektettünk a plugin optimalizálásába, hogy tényleg a legjobb minőséget tudjunk nyújtani vásárlóink felé.
+        We put lots of energy into optimising the plugin, so we can guarantee the best quality to our customers.
       </>
     ),
   },
   {
     title: 'Multi-Language',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    Svg: require('@site/static/img/letöltés-removebg-preview (1).svg').default,
     description: (
       <>
         Our plugin supports different languages per player.
@@ -23,12 +23,11 @@ const FeatureList = [
     ),
   },
   {
-    title: 'Powered by React',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    title: 'GUI Menus',
+    Svg: require('@site/static/img/menu_big.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        We made menus for easier manage a faction. All function of faction available from menu.
       </>
     ),
   },
