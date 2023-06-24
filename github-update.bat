@@ -1,3 +1,3 @@
 git add .
-git commit -m "Descriptions rework"
+git commit -m "Added Developer API doc"
 git push
