@@ -1,3 +1,3 @@
 git add .
-git commit -m "Updated home page"
+git commit -m "Descriptions rework"
 git push
