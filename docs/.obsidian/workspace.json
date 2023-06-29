@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "commands/02-admin-commands.md",
+                "file": "permissions/permissions.md",
                 "mode": "source",
                 "source": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "commands/02-admin-commands.md",
+                "file": "permissions/permissions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "commands/02-admin-commands.md",
+                "file": "permissions/permissions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "commands/02-admin-commands.md"
+                "file": "permissions/permissions.md"
               }
             }
           }
@@ -182,6 +182,7 @@
   },
   "active": "484d387eca1c5e0a",
   "lastOpenFiles": [
+    "commands/02-admin-commands.md",
     "commands/00-main-commands.md",
     "commands/01-faction-commands.md",
     "custom-claiming/00-usage.md",
@@ -208,7 +209,6 @@
     "config-files/01-messages másolata.md",
     "config-files/Új Szöveges dokumentum.txt",
     "config-files/config.md",
-    "multi-language/multi-language.md",
-    "developer-api/01-examples.md"
+    "multi-language/multi-language.md"
   ]
 }

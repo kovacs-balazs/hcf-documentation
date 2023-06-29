@@ -27,3 +27,4 @@ sidebar_label: "Commands"
 | /lookingforfaction       | factions.commands.lookingforfaction | Looking For Faction                             |
 | /pvp enable              | factions.commands.pvptimer          | Enable pvp timer                                |
 | /spawn                   | factions.commands.spawn             | Teleports to spawn                              |
+| /togglescoreboard        | factions.commands.togglescoreboard  | Toggles scoreboard                              |

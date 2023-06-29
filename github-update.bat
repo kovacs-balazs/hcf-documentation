@@ -1,3 +1,3 @@
 git add .
-git commit -m "Added Developer API doc"
+git commit -m "Added version 1.3"
 git push
