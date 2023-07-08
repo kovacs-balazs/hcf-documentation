@@ -1,3 +1,3 @@
 git add .
-git commit -m "Added version 1.3"
+git commit -m "Added images"
 git push

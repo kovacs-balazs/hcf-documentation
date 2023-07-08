@@ -102,8 +102,12 @@ const config = {
                 href: 'https://discord.gg/pSfHNB9hEP',
               },
               {
-                label: 'Our plugin',
+                label: 'Our plugin (BuiltByBit)',
                 href: 'https://builtbybit.com/resources/hardcore-factions-plus-hcf-core.29108/',
+              },
+              {
+                label: 'Our plugin (Polymart)',
+                href: 'https://polymart.org/resource/hardcore-factions-plus-core.4402',
               },
             ],
           },

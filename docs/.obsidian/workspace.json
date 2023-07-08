@@ -14,37 +14,8 @@
               "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "9f31e9a524b3f9ba",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "47343366b87b358a",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "484d387eca1c5e0a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "permissions/permissions.md",
-                "mode": "source",
-                "source": true
-              }
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "permissions/permissions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "permissions/permissions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "permissions/permissions.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -180,8 +147,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "484d387eca1c5e0a",
+  "active": "c0792b29f663cc39",
   "lastOpenFiles": [
+    "features/subclaim.png",
+    "features/_category_.json",
+    "features/stattrak.png",
+    "features/image2.png",
+    "features/factionmanager.png",
+    "features/enchantment.png",
+    "features/deathsign.png",
+    "01-images.md",
+    "features/01-images.md",
+    "features/00-features.md",
+    "features",
+    "Új mappa",
+    "factionmanager.png",
+    "image2.png",
+    "deathsign.png",
+    "stattrak.png",
+    "asd123.gif",
+    "00-features.md",
+    "Új Szöveges dokumentum.txt",
+    "permissions/permissions.md",
     "commands/02-admin-commands.md",
     "commands/00-main-commands.md",
     "commands/01-faction-commands.md",
@@ -203,12 +190,6 @@
     "config-files/05-reclaim másolata.md",
     "config-files/05-reclaim.md",
     "config-files/04-scoreboard másolata.md",
-    "config-files/04-scoreboard.md",
-    "config-files/03-limits másolata.md",
-    "config-files/03-limits.md",
-    "config-files/01-messages másolata.md",
-    "config-files/Új Szöveges dokumentum.txt",
-    "config-files/config.md",
-    "multi-language/multi-language.md"
+    "config-files/Új Szöveges dokumentum.txt"
   ]
 }
